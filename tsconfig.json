@@ -40,7 +40,9 @@
     "**/*.ts",
     "**/*.tsx",
     ".next/types/**/*.ts",
-    "src/**/*"
-, "commitlint.config.cjs"  ],
+    "src/**/*",
+    "commitlint.config.cjs",
+    "jest.setup.ts"
+  ],
   "exclude": ["node_modules", ".next", "out"]
 }
